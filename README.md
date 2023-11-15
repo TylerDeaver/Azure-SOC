@@ -1,6 +1,6 @@
 # Building a Honeynet and SOC in Azure with Real-World Cyber Attacks
-(![Honeynet and SOC Overview](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/80ebc2d0-8f37-4402-8a13-89aa2ecf77cb)
-)
+![Honeynet and SOC Overview](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/ae193d44-fe1f-4204-b494-cab85c5ee980)
+
 
 ## Summary and Purpose
 
@@ -29,7 +29,9 @@ The metrics I analyzed were:
 - [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guidance
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Before](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/8ca34c93-0738-4d3f-8d95-714bfea55174)
+![Architecture Before](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/935e08eb-845f-4f28-b47b-3e221d2b5d60)
+
+
 
 The purpose of this phase was to monitor the attack patterns utilized by malicious actors in a "real-world" setting.
 
@@ -73,7 +75,8 @@ Stop Time 11/8/2023 @ 3:12:57 PM
 | AzureNetworkAnalytics_CL (Malicious flows allowed into the honeynet) | 3600
 
 ## Architecture After Hardening / Security Controls
-![Architecture After](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/4763ef81-47ce-4238-a320-445783c0c411)
+![Architecture After](https://github.com/TylerDeaver/Azure-SOC/assets/149614301/d0f77f64-fb28-4e64-a0c2-fc5fece96d5c)
+
 
 The purpose of this phase was to harden the environment and implement security controls to become compliant with NIST SP 800-53 Revision 5 SC-7(3) Access Points. 
 
