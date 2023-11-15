@@ -133,4 +133,4 @@ In this project a small, but effective, honeynet was built in Microsoft Azure an
 
 
 ## Reflection
-This project taught me a lot and put a lot of my foundational knowledge into practice. Configuring the honeynet and implementing a small-scale SOC gave me valuable hands-on experience with a variety of tools. In the future, I plan to conduct this project again with the purpose of doing a deeper dive into Incident Response and implementing additional NIST 800-53 controls. I would also like to allow the environment for longer than 24 hours to observe changes in the attacks utilized by malicious actors.
+This project taught me several lessons and put my foundational knowledge into practice. Configuring the honeynet and implementing a small-scale SOC gave me valuable hands-on experience with a variety of tools. In the future, I plan to conduct this project again with the purpose of doing a deeper dive into Incident Response and implementing additional NIST 800-53 controls. I would also like to allow the environment for longer than 24 hours to observe changes in the attacks utilized by malicious actors.
